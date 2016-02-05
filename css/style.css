@@ -1,0 +1,15 @@
+body {
+	font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: "PT Sans Narrow", "Arial", sans-serif;
+	text-transform: uppercase;
+}
+h1 {
+	font-size: 30px;
+	line-height: 36px;
+}
+h2 {
+	font-size: 14px;
+	line-height: 18px;
+}
